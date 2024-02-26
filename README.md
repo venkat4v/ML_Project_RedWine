@@ -110,9 +110,9 @@ Now open up your local host 0.0.0.0:8080
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
-
-    ECR_REPOSITORY_NAME = simple-app
+    AWS_ECR_LOGIN_URI = demo>>  851725575038.dkr.ecr.us-east-1.amazonaws.com/ml_project
+    
+	ECR_REPOSITORY_NAME = simple-app
 
 
 
